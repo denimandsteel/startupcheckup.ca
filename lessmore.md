@@ -1,6 +1,5 @@
 ---
 layout: default
-title: Less/More
 permalink: /lessmore/
 ---
 
